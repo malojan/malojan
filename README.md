@@ -12,6 +12,7 @@ PhD candidate in political science at Sciences Po (Centre for European Studies a
 **Teaching**
 
 - [Introduction to R](https://github.com/malojan/introduction-r) for political science students
+- [Introduction to computational social science](https://github.com/luissattelmayer/intro-css) (with Luis Sattelmayer)
 - [Introduction to web scraping](https://github.com/malojan/intro_webscraping)
 
 [Website](https://malojan.github.io/website/) · [Google Scholar](https://scholar.google.com/citations?user=jBlmf-sAAAAJ) · [Bluesky](https://bsky.app/profile/malojan.bsky.social)
